@@ -1,0 +1,14 @@
+C:\Users\aclin\OneDrive\Documents\ICP\3rd year\AD\Week 2\VariablesAndDatatypes\bin\Debug\net10.0\VariablesAndDatatypes.exe
+C:\Users\aclin\OneDrive\Documents\ICP\3rd year\AD\Week 2\VariablesAndDatatypes\bin\Debug\net10.0\VariablesAndDatatypes.deps.json
+C:\Users\aclin\OneDrive\Documents\ICP\3rd year\AD\Week 2\VariablesAndDatatypes\bin\Debug\net10.0\VariablesAndDatatypes.runtimeconfig.json
+C:\Users\aclin\OneDrive\Documents\ICP\3rd year\AD\Week 2\VariablesAndDatatypes\bin\Debug\net10.0\VariablesAndDatatypes.dll
+C:\Users\aclin\OneDrive\Documents\ICP\3rd year\AD\Week 2\VariablesAndDatatypes\bin\Debug\net10.0\VariablesAndDatatypes.pdb
+C:\Users\aclin\OneDrive\Documents\ICP\3rd year\AD\Week 2\VariablesAndDatatypes\obj\Debug\net10.0\VariablesAndDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aclin\OneDrive\Documents\ICP\3rd year\AD\Week 2\VariablesAndDatatypes\obj\Debug\net10.0\VariablesAndDatatypes.AssemblyInfoInputs.cache
+C:\Users\aclin\OneDrive\Documents\ICP\3rd year\AD\Week 2\VariablesAndDatatypes\obj\Debug\net10.0\VariablesAndDatatypes.AssemblyInfo.cs
+C:\Users\aclin\OneDrive\Documents\ICP\3rd year\AD\Week 2\VariablesAndDatatypes\obj\Debug\net10.0\VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+C:\Users\aclin\OneDrive\Documents\ICP\3rd year\AD\Week 2\VariablesAndDatatypes\obj\Debug\net10.0\VariablesAndDatatypes.dll
+C:\Users\aclin\OneDrive\Documents\ICP\3rd year\AD\Week 2\VariablesAndDatatypes\obj\Debug\net10.0\refint\VariablesAndDatatypes.dll
+C:\Users\aclin\OneDrive\Documents\ICP\3rd year\AD\Week 2\VariablesAndDatatypes\obj\Debug\net10.0\VariablesAndDatatypes.pdb
+C:\Users\aclin\OneDrive\Documents\ICP\3rd year\AD\Week 2\VariablesAndDatatypes\obj\Debug\net10.0\VariablesAndDatatypes.genruntimeconfig.cache
+C:\Users\aclin\OneDrive\Documents\ICP\3rd year\AD\Week 2\VariablesAndDatatypes\obj\Debug\net10.0\ref\VariablesAndDatatypes.dll
